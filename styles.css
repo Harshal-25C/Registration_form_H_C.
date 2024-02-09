@@ -1,0 +1,48 @@
+body 
+{
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  form 
+  {
+    max-width: 500px;
+    padding: 50px;
+    border: 3px solid #7fffd4;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  label 
+  {
+    color: aquamarine;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  input 
+  {
+    color: black;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 18px;
+    box-sizing: border-box;
+    
+  }
+  
+  button 
+  {
+    background-color: #ffffff;
+    color: black;
+    padding: 10px;
+    border: aquamarine;
+    border-radius: 10px;
+    cursor: pointer;
+    align-items: center;
+  }
+  
