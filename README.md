@@ -17,6 +17,7 @@ This project showcases a streamlined registration form designed to enhance user 
 - CSS
 - JavaScript
 
+
 ## Demo:
 Check out the live demo - Here (  https://github.com/Harshal-25C/Registration_form_H_C.  )
 
