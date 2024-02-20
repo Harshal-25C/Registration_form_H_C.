@@ -19,7 +19,7 @@ This project showcases a streamlined registration form designed to enhance user 
 
 
 ## Demo:
-Check out the live demo - Here (  https://github.com/Harshal-25C/Registration_form_H_C.  )
+- Check out the live demo - Here (  https://github.com/Harshal-25C/Registration_form_H_C.  )
 
 Linkdin profile link - (  https://www.linkedin.com/in/harshal-choudhary-a75117259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  )
 Linkdin Project(Registration Form) link - (  https://www.linkedin.com/posts/harshal-choudhary-a75117259_bharatintern-bharatintern-task1-activity-7161680910034092032-gPtT?utm_source=share&utm_medium=member_desktop  )
